@@ -7,8 +7,12 @@
         "id": "90fe8c900668b346",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "mi nombre.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mi nombre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,5 +96,7 @@
     "width": 300
   },
   "active": "90fe8c900668b346",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "mi nombre.md"
+  ]
 }
