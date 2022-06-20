@@ -1,2 +1,2 @@
-# English Creative Reflection — Parviaz Audio Diary
+# English Creative Reflection — Parvaiz Audio Diary
 Awesome sauce. 
