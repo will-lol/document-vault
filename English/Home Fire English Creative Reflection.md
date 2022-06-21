@@ -1,2 +1,2 @@
 # English Creative Reflection — Parvaiz Audio Diary
-Awesome sauce. 
+Parvaiz is a complex character in Shamsie's novel. Parvaiz's character is demonstrated well in the section of the novel starting on page 116. In this section, Shamsie positions us to like Parvaiz by giving him a sense of humour and a love of his family. Parvaiz has another side to his life
