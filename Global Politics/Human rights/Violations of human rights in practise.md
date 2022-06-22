@@ -31,5 +31,3 @@ Human rights are a contested concept but in the modern, liberal world order the 
 3. Indivisibility
 4. Inalienability
 In relation to the issues in the DRC, universality is the most important principle listed here. 
-
-[@CongoDemocraticRepublic2022]
