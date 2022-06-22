@@ -1,6 +1,6 @@
 {
   "theme": "system",
   "interfaceFontFamily": "Libre Franklin",
-  "textFontFamily": "Libre Baskerville",
+  "textFontFamily": "Libre Franklin,Libre Baskerville",
   "baseFontSize": 16
 }

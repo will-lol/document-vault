@@ -5,7 +5,7 @@ graph TD
 
 a[Introduction to human rights] --> |universality as a principal| C([q: is the UDHR effective?])
 
-A[Introduction to issues in the DRC] --> |general overview of civil unrest in DRC| C
+A[Introduction to issues in the DRC] --> |general overview of unrest in DRC| C
 
 C --> prevention[Prevention measures, effectiveness]
 prevention --> documents[documents: UDHR, others]
@@ -29,3 +29,4 @@ Human rights are a contested concept but in the modern, liberal world order the 
 3. Indivisibility
 4. Inalienability
 In relation to the issues in the DRC, universality is the most important principle listed here. 
+
