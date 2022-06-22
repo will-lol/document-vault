@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90fe8c900668b346",
+        "id": "2e38b5fb59912d37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Home Fire English Creative Reflection.md",
+            "file": "Global Politics/Human rights/Violations of human rights in practise.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 313,
+    "collapsed": true
   },
   "right": {
     "id": "bd9d248203dab6f4",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Home Fire English Creative Reflection.md",
+                "file": "Global Politics/Human rights/Violations of human rights in practise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +96,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "90fe8c900668b346",
+  "active": "2e38b5fb59912d37",
   "lastOpenFiles": [
+    "Global Politics/Human rights/Violations of human rights in practise.md",
     "English/Home Fire English Creative Reflection.md",
     "Computer Science/Homework/A bus ticketing system.md",
     "Spanish/Unidad Cinco/Mi casa e-mail.md",
