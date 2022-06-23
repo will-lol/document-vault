@@ -3,9 +3,7 @@ Parvaiz is a complex, dualist character in Shamsie's novel. On one hand, Parvaiz
 ```mermaid
 graph TD
 
-A[Thomas Sheard is alive] --> |that aint good| B{Hmm what will I do}
+A[Thomas Sheard is alive] -->  B{Hmm what will I do}
 B --> C[Let me thinkk......]
-C --> D[Kill them]
-C --> E[Bury them alive]
 C --> F[Do nothing]
 ```
