@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Politics/Human rights/human12.md",
+            "file": "Global Politics/Human rights/Humanitarian Intervention.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d48ebffd540f88ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Politics/Human rights/human12.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +107,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2e38b5fb59912d37",
+  "active": "d48ebffd540f88ae",
   "lastOpenFiles": [
-    "Global Politics/Human rights/human12.md",
-    "Global Politics/Human rights/human.md",
+    "conflict-files-obsidian-git.md",
+    "Global Politics/Human rights/Humanitarian Intervention.md",
     "Humanitarian intervention.md",
+    "Global Politics/Human rights/human.md",
     "English/Home Fire English Creative Reflection.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
     "Spanish/Unidad Cinco/Mi casa e-mail.md",
