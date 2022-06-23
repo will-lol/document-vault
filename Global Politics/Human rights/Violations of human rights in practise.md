@@ -30,5 +30,6 @@ Human rights are a contested concept but in the modern, liberal world order the 
 2. Interdependency
 3. Indivisibility
 4. Inalienability
-
 The UDHR permits the use of soldiers generally but does not permit the human rights abuses to these soldiers and especially does not permit the use of children as soldiers. The United Nations has one of its largest peacekeeping operations in the DRC but have failed to eliminate this particular issue. 
+
+[@aldenChinaAfrica2015]
