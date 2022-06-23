@@ -1,8 +1,8 @@
 {
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Reading notes",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "literatureNoteFolder": "Zotero",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n[Open in Zotero]({{zoteroSelectURI}})\n[Open in browser]({{URL}})\n# {{title}} — {{authorString}} {{publisher}}, {{year}}\n{{abstract}}\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "/home/will/Documents/Library.bib"
