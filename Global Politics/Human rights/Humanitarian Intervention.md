@@ -1,7 +1,7 @@
 ## What is humanitarian intervention and how does it relate to human rights?
 Intervention is the forcible action taken by one state against another state, without the latter's consent. Humanitarian intervention is thought of to be the justifiable type of intervention, because on the grounds of helping people in need it is ethically more correct to intervene on a state's sovereignty. It relates to human rights as it is supposedly the protection of people from violations of these rights. Humanitarian intervention as Martha Finnemore states is “our obligation to save people”, from violations in human rights.   
 ## Why did humanitarian interventions increase so markedly in the 1990s?
-The ‘golden age of humanitarian intervention’ was marked by the end of the cold war and a shift from power politics (that power is the root of all war and system instability) to liberal peace fueled by diplomacy, collective action and international standards of morality (such as the UDHR). 4 factors contributed to the increase in humanitarian intervention:
+The ‘golden age of humanitarian intervention’ was marked by the end of the cold war and a shift from power politics (that power is the root of all war and system instability) to liberal peace fuelled by diplomacy, collective action and international standards of morality (such as the UDHR). 4 factors contributed to the increase in humanitarian intervention:
 
 1. Humanitarian and state interests often overlap
 2. Rise in mass media and coverage of humanitarian crisis’ caused increased public pressure on governments to intervene
