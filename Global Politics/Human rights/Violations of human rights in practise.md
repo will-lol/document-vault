@@ -37,3 +37,5 @@ Human rights are a contested concept but in the modern, liberal world order the 
 3. Indivisibility
 4. Inalienability
 The UDHR permits the use of soldiers generally but does not permit the human rights abuses to these soldiers and especially does not permit the use of children as soldiers. The DRC is a part of the United Nations who, according to the UN, has been helping the state to keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
+So, to recap, the UDHR does not permit the use of child soldiers in the DRC but the UN has been unsuccessful in combatting the issue, so who is combatting the issue and is the UDHR or other physical documents effective in assisting this?
+### Other physical documents
