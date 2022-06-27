@@ -38,7 +38,8 @@ Human rights are a contested concept but in the modern, liberal world order the 
 4. Inalienability
 The DRC is a part of the United Nations who, according to the UN, has been helping the state to keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC as is proved by a report 3 weeks ago from the Washington Post on the matter, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
 ### Is this a problem?
-
+#### A realist perspective
+The extreme realist perspective believes that 
 ### Physical documents
 As far as International physical documents go, there are many documents that aim to protect child soldiers
 - The UDHR states that soldiers must be at least 18 years of age for recruitment (UN, n.d.)
