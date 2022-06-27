@@ -39,7 +39,9 @@ Human rights are a contested concept but in the modern, liberal world order the 
 The DRC is a part of the United Nations who, according to the UN, has been helping the state to keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC as is proved by a report 3 weeks ago from the Washington Post on the matter, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
 ### Is this a problem?
 #### A realist perspective
-The extreme realist perspective believes that 
+The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state, not necessarily morality (Heywood 2014 p.317). While conflict in a state is then undesirable but the use of child soldiers is neither endorsed nor opposed.
+#### A liberal perspective
+
 ### Physical documents
 As far as International physical documents go, there are many documents that aim to protect child soldiers
 - The UDHR states that soldiers must be at least 18 years of age for recruitment (UN, n.d.)
