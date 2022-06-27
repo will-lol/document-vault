@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
   },
   "active": "1f7fc01649961b5b",
   "lastOpenFiles": [
-    "README.md.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
+    "README.md",
     "Global Politics/Human rights/Humanitarian Intervention.md",
+    "Global Politics/Human rights/Violations of human rights in practise.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
     "conflict-files-obsidian-git.md",
     "Spanish/Unidad Cinco/Mi casa e-mail.md",
