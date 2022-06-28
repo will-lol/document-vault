@@ -50,13 +50,6 @@ As far as International physical documents go, there are many documents that aim
 - The Convention on the Rights of the Child states that soldiers must be 18 years of age, in effect since 2002 (UN, n.d.)
 - International Criminal Court defines an international humanitarian law (laws of armed conflict) states that soldiers must be at least 15 
 These 3 documents very clearly state that children cannot be soldiers, yet, this practise continues in the DRC.
-### Is this a problem?
-#### A realist perspective
-The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state, not necessarily morality (Heywood 2014 p.317). While conflict in a state is then undesirable but the use of child soldiers is neither endorsed nor opposed.
-#### A liberal perspective
-
-#### A critical perspective
-
 ### Why are physical documents *not* working?
 #### Is it cultural relativism? 
 In the 2010 BBC show 'Kids with Guns: Stacey Dooley Investigates', Dooley investigates the situation in the DRC. It is clear to see from the program that while the concept of child soldiers is not uncommon and not shocking to those in the country, it isn't an issue of non-concern. Particularly for parents, it is devastating to lose their children. It is not as if this is commonly accepted practise in the DRC.
