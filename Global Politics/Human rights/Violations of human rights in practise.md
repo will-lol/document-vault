@@ -25,26 +25,27 @@ relativism --> response
 843 words.
 ## Introduction to the issue
 ### DRC
-The Democratic Republic of Congo is one of the largest countries in land mass and population in Africa. The CIA world factbook reports that the country thrived through the 14th -> 19th centuries until it was colonised and the population was devastated due to disease and slave labour. 1960 was the year that marked independence for the Congo, but also many years of civil unrest that persists to this day. The country has been through two separate wars that have since ceased but the violence in the region continues with over 100 different armed groups that are active to this day (CIA World Factbook, 2022). Willing soldiers to fight in these groups are lacking, so many of them, including the government, have resorted to the use of child soldiers in their activities. Soldiers in these groups are subject to a myriad of human rights abuses such as, however, as Unicef reports, children are especially exploited in that they are underage and don't have agency in the decision to incorporate themselves into these groups. Unicef lists a number of roles that the 5000 to 1000 child soldiers as of 2018 may take in the DRC:
+The Democratic Republic of Congo is one of the largest countries in land mass and population in Africa. The CIA world factbook reports that the country thrived through the 14 -> 19th centuries until it was colonised and the population experienced devestation due to disease and slave labour. 1960 was the year that marked independence for the Congo, but also many years of civil unrest that persists to this day. The country has been through two separate wars that have since ceased but violence in the region continues with over 100 different armed groups that are active to this day (CIA World Factbook, 2022). Soldiers to fight in the conflict are lacking, so many military groups, including the government, have resorted to the use of child soldiers in their activities. According to Unicef, children don't have agency in the decision to incorporate themselves into these groups. Unicef lists a number of roles that the 5000 to 1000 child soldiers as of 2018 may take in the DRC:
 - Combatants
 - Transports
 - Spies
 - Chefs
 - Sexual slaves
 ### Human rights
-Human rights are a contested concept but in the modern, liberal world order the most accepted document in International Relations is the UN's Universal Declaration of Human Rights. The UN declares that there are 4 principles of human rights: 
+Human rights are a contested concept but in the modern, liberal world order the most accepted document in International Relations regarding Human Rights is the Universal Declaration of Human Rights. The UN declares these 4 principles of human rights: 
 1. **Universality**
 2. Interdependency
 3. Indivisibility
 4. Inalienability
-The DRC is a part of the United Nations who, according to the UN, has been helping the state to keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC as is proved by a report 3 weeks ago from the Washington Post on the matter, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
+The DRC is a part of the United Nations. According to the UN, they have been working in solidarity with the DRC to help keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC as is proved by a report 3 weeks ago from the Washington Post on the matter, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
 ### Is this a problem?
 #### A realist perspective
-The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood, 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state, not necessarily morality (Heywood, 2014 p.317). While conflict in a state is then undesirable but the use of child soldiers is neither endorsed nor opposed.
+The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood, 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state (Heywood, 2014 p.317). Conflict is then undesirable but the use of child soldiers is neither clearly endorsed nor opposed.
 #### A liberal perspective
-According to Heywood, Human rights are a liberal construct and human rights are in violation in this situation meaning that from a liberal perspective, child soldiers are absolutely a problem.
+According to Heywood, Human rights are a liberal construct. Since human rights are in violation in this situation, from a liberal perspective, child soldiers are absolutely a problem.
 #### Critical views
 An opposition to corporate globalism and a shift to equal distribution of economic and social resources includes the belief that if the most privileged in this world are not routinely kidnapped to be a soldier, then no one should. Other critical views are not so clear in their views on this topic.
+**Assuming a perspective in favour of human rights and morality, child soldiers are a problem**
 ### Physical documents
 As far as International physical documents go, there are many documents that aim to protect child soldiers
 - The UDHR states that soldiers must be at least 18 years of age for recruitment (UN, n.d.)
@@ -70,6 +71,8 @@ _Convention on the Rights of the Child_ n.d., _OHCHR_, viewed 26 June 2022, <[ht
 Lloyd-Davies, F 2010, “BBC Three - Stacey Dooley Investigates, Series 2, Kids with Guns,” _BBC_, viewed 28 June 2022, <[https://www.bbc.co.uk/programmes/b00v781z](https://www.bbc.co.uk/programmes/b00v781z)>.
 
 _MONUSCO_ n.d., _United Nations Peacekeeping_, viewed 28 June 2022, <[https://peacekeeping.un.org/en/mission/monusco](https://peacekeeping.un.org/en/mission/monusco)>.
+
+_Tens of thousands displaced by resurgence of M23 in DRC - The Washington Post_ n.d., viewed 28 June 2022, <[https://www.washingtonpost.com/world/2022/06/01/drc-fighting-m23-rebels-kivu/](https://www.washingtonpost.com/world/2022/06/01/drc-fighting-m23-rebels-kivu/)>.
 
 Tremblay, S n.d., “Child Recruitment and Use – Office of the Special Representative of the Secretary-General for Children and Armed Conflict,” viewed 26 June 2022, <[https://childrenandarmedconflict.un.org/six-grave-violations/child-soldiers/](https://childrenandarmedconflict.un.org/six-grave-violations/child-soldiers/)>.
 
