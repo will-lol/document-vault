@@ -37,12 +37,11 @@ Human rights are a contested concept but in the modern, liberal world order the 
 3. Indivisibility
 4. Inalienability
 The DRC is a part of the United Nations who, according to the UN, has been helping the state to keep peace. The UN has been unable to rectify the issue of child soldiers in the DRC as is proved by a report 3 weeks ago from the Washington Post on the matter, which may be a product of, according to Heywood, the UN's inconsistencies and biases with member states.
-<<<<<<< HEAD
 ### Is this a problem?
 #### A realist perspective
 The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state, not necessarily morality (Heywood 2014 p.317). While conflict in a state is then undesirable but the use of child soldiers is neither endorsed nor opposed.
 #### A liberal perspective
-According to Heywood, Human rights are a liberal construct and human rights are in violation in this situation meaning that from a liberal persepctive, child soldiers are absolutely a problem.
+According to Heywood, Human rights are a liberal construct and human rights are in violation in this situation meaning that from a liberal perspective, child soldiers are absolutely a problem.
 #### Critical views
 An opposition to corporate globalism and a shift to equal distribution of economic and social resources includes the belief that if the most privileged in this world are not routinely kidnapped to be a soldier, then no one should. Other critical views are not so clear in their views on this topic.
 ### Physical documents
