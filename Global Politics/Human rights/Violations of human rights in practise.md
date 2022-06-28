@@ -25,7 +25,7 @@ relativism --> response
 843 words.
 ## Introduction to the issue
 ### DRC
-The Democratic Republic of Congo is one of the largest countries in land mass and population in Africa. The CIA world factbook reports that the country thrived through the 14 -> 19th centuries until it was colonised and the population experienced devastation due to disease and slave labour. 1960 was the year that marked independence for the Congo, but also many years of civil unrest that persists to this day. The country has been through two separate wars that have since officially ceased but violence in the region continues with over 100 different armed groups that are active to this day (CIA World Factbook, 2022). Soldiers to fight in the conflict are lacking, so many military groups, including the government, have resorted to the use of child soldiers in their activities. According to Unicef, children don't have agency in the decision to incorporate themselves into these groups. Unicef lists a number of roles that the 93,000 total child soldiers as of 2020 may take in the DRC:
+The country has been through two separate wars that have since officially ceased but violence in the region continues with over 100 different armed groups that are active to this day (CIA World Factbook, 2022). Soldiers to fight in the conflict are lacking, so many military groups, including the government, have resorted to the use of child soldiers in their activities. According to Unicef, children don't have agency in the decision to incorporate themselves into these groups. Unicef lists a number of roles that the 93,000 total child soldiers as of 2020 may take in the DRC:
 - Combatants
 - Transports
 - Spies
