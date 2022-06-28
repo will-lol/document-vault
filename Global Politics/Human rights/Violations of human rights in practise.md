@@ -32,7 +32,7 @@ The Democratic Republic of Congo is one of the largest countries in land mass an
 - Sexual slaves
 ### Human rights
 Human rights are a contested concept but in the modern, liberal world order the most accepted document in International Relations is the UN's Universal Declaration of Human Rights. The UN declares that there are 4 principles of human rights: 
-1. Universality
+1. **Universality**
 2. Interdependency
 3. Indivisibility
 4. Inalienability
@@ -41,7 +41,9 @@ The DRC is a part of the United Nations who, according to the UN, has been helpi
 #### A realist perspective
 The extreme realist perspective believes that morality, and therefore human rights have absolutely no place in international politics (Heywood 2014 p.317). Realists emphasise a concern for order and stability for citizens in a state, not necessarily morality (Heywood 2014 p.317). While conflict in a state is then undesirable but the use of child soldiers is neither endorsed nor opposed.
 #### A liberal perspective
-
+** forgot to commit changes do not add anything else here plzplzplz
+#### Critical views
+An opposition to corporate globalism and a shift to equal distribution of economic and social resources includes the belief that if the most privileged in this world are not routinely kidnapped to be a soldier, then no one should. Other critical views are not so clear in their views on this topic.
 ### Physical documents
 As far as International physical documents go, there are many documents that aim to protect child soldiers
 - The UDHR states that soldiers must be at least 18 years of age for recruitment (UN, n.d.)
@@ -51,4 +53,6 @@ These 3 documents very clearly state that children cannot be soldiers, yet, the 
 ### Why are physical documents *not* working?
 #### Is it cultural relativism? 
 In the 2010 BBC show 'Kids with Guns: Stacey Dooley Investigates', Dooley investigates the situation in the DRC. It is clear to see from the program that while the concept of child soldiers is not uncommon and not shocking to those in the country, it isn't an issue of non-concern. Particularly for parents, it is devastating to lose their children. It is not as if this is commonly accepted practise in the DRC.
-#### Is 
+#### Is it a lack of resources to solve this problem?
+The peacekeeping mission in the DRC is one of the largest in the world. The approved budget by the UN for one year of peacekeeping is over 1 billion dollars. However, the UN has recently reported that its operation has a 'lack of sufficient funding' (UN peacekeeping, 2022). This is due to a long decline in funding as the peacekeeping mission has been in operation for over 12 years, yet the situation has only improved marginally.
+#### A lack of public conscience, the view of the DRC as a failed or helpless state, incentive to only contain the issue not end it, ?
