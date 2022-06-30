@@ -1,28 +1,4 @@
 # Human Rights — Child Soldiers in the DRC
-## Structure of my presentation
-```mermaid
-graph TD
-
-a[Introduction to human rights] --> |universality as a principal| C([q: is the UDHR effective?])
-
-A[Introduction to issues in the DRC] --> |general overview of unrest in DRC| C
-
-C --> prevention[Prevention measures, effectiveness]
-prevention --> documents[documents: UDHR, others]
-documents --> perspectives([what do people think?])
-perspectives --> realist 
-perspectives --> liberal
-perspectives --> critical
-perspectives --> relativism[cultrual relativism]
-
-response[How might improve this situation?]
-realist --> response
-liberal --> response
-critical --> response
-relativism --> response
-
-```
-843 words.
 ## Introduction to the issue
 ### DRC
 The country has been through two separate wars that have since officially ceased but violence in the region continues with over 100 different armed groups that are active to this day (CIA World Factbook, 2022). Soldiers to fight in the conflict are lacking, so many military groups, including the government, have resorted to the use of child soldiers in their activities. According to Unicef, children don't have agency in the decision to incorporate themselves into these groups. Unicef lists a number of roles that the 93,000 total child soldiers as of 2020 may take in the DRC:
