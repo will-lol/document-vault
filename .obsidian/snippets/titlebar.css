@@ -1,0 +1,8 @@
+.titlebar {
+    background-color: var(--background-secondary-alt);
+}
+.titlebar-inner {
+    -webkit-app-region: drag;
+    color: var(--text-normal);
+    width: 100%;
+}
