@@ -88,14 +88,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "ad87d4bdf4f26c11",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
