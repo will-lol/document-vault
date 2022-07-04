@@ -13,6 +13,8 @@ Subjectivism is an alternative way to view interpreations in that everyone has t
 Rothko is an artist whos works rely heavily on subjectivism. His artworks are incredibly simple and considered but on the surface, seem to have little meaning at all. The meaning is extracted from Rothko's works by each individual that views his art. Subjectivism allows Rothko's art to be applicable and interesting to everyone by representing very broad and overwhelming emotions and ideas. It is from these ideas that one can extract an interpretation and therfore, knowledge.
 ### Example 4 (challenging)
 https://www.abc.net.au/news/2021-03-23/aboriginal-outrage-dark-mofo-union-flag-prompts-cancellation/100022680
+
+
 ### Miniture conclusion
 
 ## Conclusion
