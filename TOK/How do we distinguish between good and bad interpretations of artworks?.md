@@ -1,6 +1,6 @@
 # How do we distinguish between good and bad interpretations of artworks?
 ## The authority of the interpretation determines it's validity
-Looking for authority is one way we can distinguish between good and bad interpretations of artworks. There is no definition of authority in the arts that has consensus but the authority of an interpretation is informally determined by the interpreters wealth, experience and connections in the field of art they interpret in. Examples of generally accepted authoritative interpreters include art critics, music reviewers, artists themselves and prolific art purchasers.  
+Looking for authority is one way we can distinguish between good and bad interpretations of artworks.The authority of an interpretation is informally determined by the interpreters wealth, experience and connections in the field of art they interpret in. Examples of generally accepted authoritative interpreters include art critics, music reviewers, artists themselves and prolific art purchasers.  
 ### Example 1 (supporting)
 Judging an interpretation based upon it's authority works in some cases. Beethoven's 'Eroica' is often praised by music reviewers as a turning point in western music history (NPR 2006), it was voted the greatest symphony of all time by 151 conductors at BBC Music Magazine (Brown 2016). As is evident from western popular music, Beethoven's work is not preferable to listen to for most western people — it brings joy mostly to those that understand the complexity of his work. Critics and authoritative interpretations bring a level of understanding that Beethoven's music is technically impressive and 'good' to those that do not understand.
 ### Example 2 (challenging)
@@ -8,14 +8,12 @@ In Beethoven's case, interpreters have the benefit of hindsight to analyse a wor
 ### Miniture conclusion
 Warhol's art and Beethoven's music combine to form a picture of authoritative interpretations that positions them as interpretations based on comparisons to other art and evaluations of technical complexity. 
 ## Subjectivism
-Subjectivism is an alternative way to view interpreations in that everyone has their own interpretations and no single or combination of interpretations is solely correct. 
+Subjectivism is an alternative way to view interpreations in that everyone has their own interpretations and no single or combination of interpretations is solely correct. Subjectivism is helpful in some ways but is incompatible with ethics.
 ### Example 3 (supporting)
 Rothko is an artist whos works rely heavily on subjectivism. His artworks are incredibly simple and considered but on the surface, seem to have little meaning at all. The meaning is extracted from Rothko's works by each individual that views his art. Subjectivism allows Rothko's art to be applicable and interesting to everyone by representing very broad and overwhelming emotions and ideas. It is from these ideas that one can extract an interpretation and therfore, knowledge.
 ### Example 4 (challenging)
-https://www.abc.net.au/news/2021-03-23/aboriginal-outrage-dark-mofo-union-flag-prompts-cancellation/100022680
-
-
+ Controversial spanish artist Santiago Sierra was involved in the 2021 Tasmanian Dark Mofo Festival in his piece of performance art 'Union Jack' that, according to the ABC was to be "used to soak a British flag [with the blood of Indigenous peoples], as an artistic metaphor" (Cascone 2021). The premise was met with very little support due to the inethical nature of a coloniser using the blood of the colonised for the success of an event organised by colonisers (Walsh 2021). True subjectivism validates all interpretations of artworks without any other considerations. Questions of ethics can mean that holding an interpretation that opposes the ethical consensus invalidates ones interpretation, and often for good reason. This means that if ethics should be a consideration in art knowledge, then true subjectivism is not true. 
 ### Miniture conclusion
-
+Subjectivism allows one to form their own interpretation and knowledge around an artwork without restraints, which is good in that art can become more universal and knowlege ridden. However, true subjectivism requires ethics to not be a consideration, which makes it unfeasible in the eyes of many people.
 ## Conclusion
-We like consensus!!!!!! 
+

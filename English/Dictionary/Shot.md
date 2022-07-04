@@ -1,0 +1,2 @@
+# Shot
+A camera position
