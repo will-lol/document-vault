@@ -18,3 +18,15 @@ Mark Rothko is an artist whose works rely heavily on subjectivism. His artworks 
 Subjectivism allows one to form their own interpretation and knowledge around an artwork without restraints, which is good in that art can become more universal and knowledge ridden. However, true subjectivism requires ethics to not be a consideration, which makes it unfeasible in the eyes of many people.
 ## Conclusion
 Distinguishing between good and bad interpretations does not work entirely in either of the perspectives put forward. Subjectivism allows diverse interpretations but it is in jeopardy with ethics and the only benefit that an authoritative interpretations put forward is familiarity with the genre (enabling comparisons to other artworks and evaluation of technical ability). Possibly both of these perspectives could combine to even their pitfalls and to create an interactive space where good and bad interpretations are determined by consensus. The interpretations of individuals and critics are averaged and the result is a model interpretation that may not be correct for everyone, but provides a baseline for comparison.
+# References 
+“Beethoven’s Symphony No. 3 in E Flat Major, Op. 55” 2006, _NPR_, viewed 3 July 2022, <[https://www.npr.org/2006/06/07/5456722/beethovens-symphony-no-3-in-e-flat-major-op-55](https://www.npr.org/2006/06/07/5456722/beethovens-symphony-no-3-in-e-flat-major-op-55)>.
+
+Brown, M & correspondent, MBA 2016, “Beethoven’s Eroica voted greatest symphony of all time,” _The Guardian_, viewed 3 July 2022, <[https://www.theguardian.com/music/2016/aug/04/beethoven-eroica-greatest-symphony-vote-bbc-mozart-mahler](https://www.theguardian.com/music/2016/aug/04/beethoven-eroica-greatest-symphony-vote-bbc-mozart-mahler)>.
+
+Cascone, S 2021, _An Australian Arts Festival Has Canceled Artist Santiago Sierra’s Plans to Douse the British Flag in the Blood of Indigenous People_, _Artnet News_, viewed 4 July 2022, <[https://news.artnet.com/art-world/santiago-sierra-dark-mofo-cancelled-1954026](https://news.artnet.com/art-world/santiago-sierra-dark-mofo-cancelled-1954026)>.
+
+_David’s response to Union Flag – Blog_ n.d., _Mona_, viewed 4 July 2022, <[https://mona.net.au/blog/2021/03/davids-response-to-union-flag](https://mona.net.au/blog/2021/03/davids-response-to-union-flag)>.
+
+Tate n.d., _Abstract expressionism_, _Tate_, viewed 3 July 2022, <[https://www.tate.org.uk/art/art-terms/a/abstract-expressionism](https://www.tate.org.uk/art/art-terms/a/abstract-expressionism)>.
+
+The Art Assignment 2015, _The Case For Andy Warhol | The Art Assignment | PBS Digital Studios_, viewed 3 July 2022, <[https://www.youtube.com/watch?v=7VH5MRtk9HQ](https://www.youtube.com/watch?v=7VH5MRtk9HQ)>.
