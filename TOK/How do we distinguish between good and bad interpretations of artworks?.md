@@ -1,5 +1,5 @@
 # How do we distinguish between good and bad interpretations of artworks?
-700 words w/o headings.
+700 words w/o headings and references
 ## The authority of the interpretation determines it's validity
 Looking for authority is one way we may be able to distinguish between good and bad interpretations of artworks. The authority of an interpretation is informally determined by the interpreter's wealth, experience and connections in the field of art they interpret in. Examples of generally accepted authoritative interpreters include art critics, music reviewers, artists, and prolific art purchasers.  
 ### Example 1 (supporting)
