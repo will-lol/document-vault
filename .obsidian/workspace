@@ -7,12 +7,10 @@
         "id": "b6b0f5f1489c3297",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": ".obsidian/workspace",
+            "staged": false
           }
         }
       }
@@ -70,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +95,15 @@
   },
   "active": "b6b0f5f1489c3297",
   "lastOpenFiles": [
+    "Global Politics/Human rights/paper 1.md",
+    "Global Politics/Human rights/Violations of human rights in practise.md",
+    "English/Home Fire English Creative Reflection.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Homework/Untitled.md",
     "Global Politics/Human rights/13th film.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
     "English/Dictionary/Colonisation.md",
     "English/Dictionary/Subjugation.md",
-    "English/Dictionary/Colonial mindset.md",
-    "English/Dictionary/Flashback.md",
-    "English/Dictionary/Auditory imagery.md",
-    "English/Dictionary/Anthropomorphism.md"
+    "English/Dictionary/Colonial mindset.md"
   ]
 }
