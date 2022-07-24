@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b0f5f1489c3297",
+        "id": "1f7fc01649961b5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Global Politics/Human rights/paper 1.md",
             "mode": "source",
-            "backlinks": false,
             "source": false
           }
         }
@@ -54,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 368
   },
   "right": {
     "id": "bd9d248203dab6f4",
@@ -97,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b6b0f5f1489c3297",
+  "active": "1f7fc01649961b5b",
   "lastOpenFiles": [
-    "Global Politics/Human rights/paper 1.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
-    "Computer Science/Homework/A bus ticketing system.md",
-    "English/Home Fire English Creative Reflection.md",
+    "Physics/Practise IA.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/Homework/Untitled.md",
-    "Global Politics/Human rights/13th film.md",
-    "English/Dictionary/Colonisation.md",
-    "English/Dictionary/Subjugation.md"
+    "English/Dictionary/External analepsis.md",
+    "English/Dictionary/Internal analepsis.md",
+    "English/Dictionary/Flashback.md",
+    "English/Dictionary/Sough.md",
+    "English/Dictionary/Visual imagery.md",
+    "English/Dictionary/Undershot.md",
+    "English/Dictionary/Terra nullius.md",
+    "English/Dictionary/Tactile imagery.md"
   ]
 }
