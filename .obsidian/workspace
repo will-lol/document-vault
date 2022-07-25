@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Politics/Human rights/paper 1.md",
+            "file": "English/Home Fire & Antigone/Comparitive essay.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Politics/Human rights/paper 1.md",
+                "file": "English/Home Fire & Antigone/Comparitive essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1f7fc01649961b5b",
+  "active": "353bee7a83b73aa6",
   "lastOpenFiles": [
+    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
+    "English/Home Fire & Antigone/Comparitive essay.md",
+    "Global Politics/Human rights/paper 1.md",
     "Physics/Practise IA.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
     "English/Dictionary/External analepsis.md",
     "English/Dictionary/Internal analepsis.md",
     "English/Dictionary/Flashback.md",
     "English/Dictionary/Sough.md",
-    "English/Dictionary/Visual imagery.md",
-    "English/Dictionary/Undershot.md",
-    "English/Dictionary/Terra nullius.md",
-    "English/Dictionary/Tactile imagery.md"
+    "English/Dictionary/Visual imagery.md"
   ]
 }
