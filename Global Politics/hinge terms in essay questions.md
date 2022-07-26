@@ -11,13 +11,13 @@ Show a balanced view of the negative and positive side of "human rights being op
 Weigh up the negative and positive side of "human rights limit state power"
 
 ## **==Evaluate==** the claim that the ==challenges== of ==sustainability== mean that ==development== may ==no longer be possible==
-Weigh up the negative and positive 
+Weigh up the negative and positive side of "challenges of sustainability mean that development may no longer be possible"
 
 ## **==Discuss==** the view that ==social factors== ==inhibit== ==development==
-
+Show a balanced view of the notion that "social factors inhibit development"
 
 ## **==Evaluate==** the claim that ==positive peace== can ==never== be fully ==achieved==
-
+Weigh up the negative and positive side of "positive peace can never be fully achieved"
 
 ## **==Examine==** the claim that ==humanitarian intervention== is a ==violation== of ==state sovereignty==
 Look at the cause and effect of humanitarian intervention and violations of state sovereignty 
