@@ -36,7 +36,6 @@ effects of Parvaiz's pride in his father
 	2. Relationship with family ((Haemon, Eamonn)) (Terry)
 	3. Relationship with the people
 	4. Relationship with colleagues (Home Fire mainly)
-	
 1. While it's use differs between Karamat and Creon, Sophocles and Shamsie both show the dangers of pride through characterisation and the tragic hero archetype.
 	1. Attitudes towards women
 	2. General attitude towards others
@@ -96,6 +95,24 @@ Karamat's obsession and attitude toward sex. "it wasn’t about sex" p.238 "Did 
 
 "With respect, sir, he is your son."
 "With respect, James, he’s a British national who made a choice and has to face the consequences. As any other British national would." p.241
+
+"When had this phrase become so popular, “my truth”? Hateful expression, something so egocentric in it. And something so cynical, also, about all those absolute truths in the world."
+
+"personal animus" "He knew it to be a lie" p.245
+
+"James, until this thing is over I don’t have a son and I don’t have a wife. I have a great office of state. Are we clear?" p.246
+
+"the tie of a man assured of his own power." p.246
+
+"You want to protect your son. Of course you do. It’s your job. But it can’t be mine, not in these circumstances." p.252
+
+"His family. His goddamned family and they were the ones least able to understand." p.252
+
+"A way to stop drinking the jammy liquid and make it her fault." p.252
+
+"That within the party you have enemies rather than rivals, backers rather than supporters." p.253
+
+### Antigone 
 
 # the actual essay
 *Antigone*, written by Sophocles in 441 BC was the basis for Kamila Shamsie's 2017 novel, *Home Fire*. Antigone is a Greek tragedy play featuring a tragic hero and a plot conformant to the attributes Greek tragedy. *Home Fire* follows the tragic hero plot outline in a series of sections, each privileging a different character in the third person restricted point of view. The theme of pride is explored extensively in Greek tragedy, *Antigone* and *Home Fire* are no exception to this rule. Both Sophocles and Shamsie warn readers of the intolerance of opposing ideas, blindness, and arrogant righteousness that can be a product of pride through the techniques and characteristics of the forms, play, and novel respectively. Initially, a discussion of how the relationships of the tragic heroes, Creon and Karamat contribute to this warning. Then, an investigation into the tragic hero archetype and it's use in *Antigone* and *Home Fire* to show this message. Finally, an analysis of narrative perspective and the structure of the novel in relation to it's contribution to the warning.
