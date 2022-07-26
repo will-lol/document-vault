@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7fc01649961b5b",
+        "id": "b6b0f5f1489c3297",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "English/Home Fire & Antigone/Comparitive essay.md",
             "mode": "source",
-            "source": true
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -53,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 300
   },
   "right": {
     "id": "bd9d248203dab6f4",
@@ -95,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "353bee7a83b73aa6",
+  "active": "b6b0f5f1489c3297",
   "lastOpenFiles": [
     "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
-    "English/Home Fire & Antigone/Comparitive essay.md",
     "Global Politics/Human rights/paper 1.md",
-    "Physics/Practise IA.md",
+    "English/Home Fire & Antigone/Comparitive essay.md",
+    "Global Politics/hinge terms in essay questions.md",
+    "Global Politics/Human rights/Violations of human rights in practise.md",
+    "Computer Science/Homework/A bus ticketing system.md",
+    "English/Home Fire English Creative Reflection.md",
     "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
-    "English/Dictionary/External analepsis.md",
-    "English/Dictionary/Internal analepsis.md",
-    "English/Dictionary/Flashback.md",
-    "English/Dictionary/Sough.md",
-    "English/Dictionary/Visual imagery.md"
+    "conflict-files-obsidian-git.md",
+    "Computer Science/Homework/Untitled.md"
   ]
 }
