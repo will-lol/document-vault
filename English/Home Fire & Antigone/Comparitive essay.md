@@ -112,7 +112,41 @@ Karamat's obsession and attitude toward sex. "it wasn’t about sex" p.238 "Did 
 
 "That within the party you have enemies rather than rivals, backers rather than supporters." p.253
 
-### Antigone 
+### Antigone
+"As for a man that considers someone he loves to be more important than his country, I say that he is nothing." line 173-174
+
+"What **man** dared to do this" in reference to Polyneices' death. line 231 
+
+"insane as well as senile" in talking to the sentry gives us insight to Creon's character towards his employees. line 259
+
+"Stop! Before your words fill me with anger, or you will prove yourself insane as well as senile! What you say is intolerable, if you mean that the gods care about this corpse" Creon is denying the possibility that the laws of the gods (devine law also for that matter) disagrees with his position. lines 258-260
+
+"Can you see the gods honouring evil men? Impossible!" line 264-265
+
+"instead of keeping their necks under the yoke and accepting me, as they should, they toss their heads in rebellion." line 268-269
+
+"You did, and you sold your life for silver" Creon's certainty makes him seem arrogantly righteous. line 295 
+
+"are you not ashamed to think so differently from them?" in reference to the peoples disguising of their true feelings. line 469
+
+"An enemy never earns love, not even in death" line 486
+
+"A women will never rule me while I am alive" line 489
+"From now on women must not go wandering outside" line 544
+
+"My son, never abandon your good sense to pleasure, for a woman" parallels to Karamat's blowjob comment?  lines 611-612
+
+"It is not your nature to pay attention to everything that people say or do or find to criticise; and your look frightens the citizens and prevents them saying things you would not like to hear." lines 641-644  
+  
+"You see how the trees that bend beside the storming winter floods save even their twigs, while those that resist are torn up by their roots; and so too the man who hauls tight the mainsheet of his sail and will not slacken it capsizes his ship and ends the voyage with the rowing benches upside down." lines 660-665
+
+"razor edge of fate" in reference to Creon's situation line 970
+
+"stubbornness brings the charge of stupidity" lines 995-996
+
+"the whole breed or seers is in love with money" line 1021
+
+
 
 # the actual essay
 *Antigone*, written by Sophocles in 441 BC was the basis for Kamila Shamsie's 2017 novel, *Home Fire*. Antigone is a Greek tragedy play featuring a tragic hero and a plot conformant to the attributes Greek tragedy. *Home Fire* follows the tragic hero plot outline in a series of sections, each privileging a different character in the third person restricted point of view. The theme of pride is explored extensively in Greek tragedy, *Antigone* and *Home Fire* are no exception to this rule. Both Sophocles and Shamsie warn readers of the intolerance of opposing ideas, blindness, and arrogant righteousness that can be a product of pride through the techniques and characteristics of the forms, play, and novel respectively. Initially, a discussion of how the relationships of the tragic heroes, Creon and Karamat contribute to this warning. Then, an investigation into the tragic hero archetype and it's use in *Antigone* and *Home Fire* to show this message. Finally, an analysis of narrative perspective and the structure of the novel in relation to it's contribution to the warning.
