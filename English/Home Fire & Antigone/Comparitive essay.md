@@ -29,6 +29,15 @@ attributes of a great leader
 #### Thesis statement
 Both Sophocles and Shamsie warn readers of the intolerance of opposing ideas, blindness and arrogant righteousness that pride can generate through the techniques and characteristics of the forms, play, and novel respectively.
 ## Structure 
+### Body paragraph structure in a comparitive
+1. Always start with the topic sentence
+2. Introduce the first text and start explaining evidence
+3. Wrap up the evidence in a short concluding sentence 
+4. Use a sign-posting word (In contrast, similarly) to signal a move to second text
+5. Talk about the second text (explain evidence)
+6. Conclude second text
+7. End with a linking sentence 
+
 effects of Parvaiz's pride in his father
 
 1. Relationships are used to show the dangers of pride through the tragic hero characters of Karamat and Creon.
@@ -93,14 +102,14 @@ Karamat's repetition of the word 'sense'. Clearly meaning aligning with his pers
 
 Karamat's obsession and attitude toward sex. "it wasn’t about sex" p.238 "Did she give you your first really good blow job, Eamonn" p.218
 
-"With respect, sir, he is your son."
-"With respect, James, he’s a British national who made a choice and has to face the consequences. As any other British national would." p.241
+=="With respect, sir, he is your son."
+"With respect, James, he’s a British national who made a choice and has to face the consequences. As any other British national would." p.241==
 
 "When had this phrase become so popular, “my truth”? Hateful expression, something so egocentric in it. And something so cynical, also, about all those absolute truths in the world."
 
 "personal animus" "He knew it to be a lie" p.245
 
-"James, until this thing is over I don’t have a son and I don’t have a wife. I have a great office of state. Are we clear?" p.246
+=="James, until this thing is over I don’t have a son and I don’t have a wife. I have a great office of state. Are we clear?" p.246==
 
 "the tie of a man assured of his own power." p.246
 
@@ -146,8 +155,34 @@ Karamat's obsession and attitude toward sex. "it wasn’t about sex" p.238 "Did 
 
 "the whole breed or seers is in love with money" line 1021
 
-
+"Not through your folly, but through mine" Creon says this line 1223-1224
 
 # the actual essay
-*Antigone*, written by Sophocles in 441 BC was the basis for Kamila Shamsie's 2017 novel, *Home Fire*. Antigone is a Greek tragedy play featuring a tragic hero and a plot conformant to the attributes Greek tragedy. *Home Fire* follows the tragic hero plot outline in a series of sections, each privileging a different character in the third person restricted point of view. The theme of pride is explored extensively in Greek tragedy, *Antigone* and *Home Fire* are no exception to this rule. Both Sophocles and Shamsie warn readers of the intolerance of opposing ideas, blindness, and arrogant righteousness that can be a product of pride through the techniques and characteristics of the forms, play, and novel respectively. Initially, a discussion of how the relationships of the tragic heroes, Creon and Karamat contribute to this warning. Then, an investigation into the tragic hero archetype and it's use in *Antigone* and *Home Fire* to show this message. Finally, an analysis of narrative perspective and the structure of the novel in relation to it's contribution to the warning.
+According to the Oxford English Dictionary, 'pride' is "A high, esp. an excessively high, opinion of one's own worth or importance which gives rise to a feeling or attitude of superiority over others; inordinate self-esteem". *Antigone*, written by Sophocles in 441 BC was the basis for Kamila Shamsie's 2017 novel, *Home Fire*. Antigone is a Greek tragedy play featuring a tragic hero and a plot conformant to the attributes Greek tragedy. *Home Fire* follows the tragic hero plot outline in a series of sections, each privileging a different character in the third person restricted point of view. The theme of pride is explored extensively in Greek tragedy, *Antigone* and *Home Fire* are no exception to this rule. Both Sophocles and Shamsie warn readers of the intolerance of opposing ideas, blindness, and arrogant righteousness that can be a product of pride through the techniques and characteristics of the forms, play, and novel respectively. Initially, a discussion of how the relationships of the tragic heroes, Creon and Karamat contribute to this warning. Then, an investigation into the tragic hero archetype and it's use in *Antigone* and *Home Fire* to show this message. Finally, an analysis of narrative perspective and the structure of the novel in relation to it's contribution to the warning.
 
+1. Relationships are used to show the dangers of pride through the tragic hero characters of Karamat and Creon.
+	1. Relationship with the state
+	2. Relationship with family ((Haemon, Eamonn)) (Terry)
+	3. Relationship with the people
+	4. Relationship with colleagues
+
+Dialogue in professional relationships is used to further the characterisation of the tragic hero characters Karamat and Creon as obdurate and dismissive. The ugly combination of Creon's autocratic leadership and his hubris make him someone disrespectful towards the working citizens of the state. Sophocles makes the sentry's appearance on lines 207-219 seem hurried and skittish by the use of long, compound sentences and dramatic monologue such as "Wretch, are you wasting your time again?". Sophocles' use of %%rhetorical%% questions shows the sentry's uncertainty and vulnerability with himself. Creon mocks and then threatens the vulnerable sentry on lines 279-280 by saying "death alone will not be enough for you \[if the sentry does not find the culprit of the burial\]". Creon's threat towards the sentry shows a disregard and lack of humanity, adding to his larger obdurate characterisation. In addition, Sophocles shows Creon's obdurate nature even in the face of the "objective truth" (Sophocles et al. 74). Sophocles shows that Creon is aware of Teiresias' power on line 971 as he "shudders" at Teiresias' insinuation that he has broken the laws of the gods. However, after Teiresias delivers his speech that contradicts Creon's position, he discounts it by saying Teiresias is "in love with money" and "injustice". By slight contrast, Karamat is not an autocratic leader, but the disrespect towards employees (particularly James) remains from *Antigone*. James, like the sentry, has a respect towards Creon that is not mutual. This is shown best by the interaction between the characters on page 241 where Karamat says "Would I \[put my son on a plane back to Britain from Pakistan\] if he weren't my son?" and James replies with a sensical reminder of Eamonn's relationship to Karamat: "With respect, sir, he is your son", to which Karamat retaliates: "With respect, James, he's a British national who made a choice and has to face the consequences. As any other British national would". The choice by Shamsie to emulate James' sentence structure makes Karamat appear passive aggressive and obdurate to his suggestion. The dialogue in the professional relationships of both Creon and Karamat reveals an obdurate nature, and in Creon's case, an additional threatening element, towards the differing opinions of people working below them. 
+
+1. While it's use differs between Karamat and Creon, Sophocles and Shamsie both show the dangers of pride through characterisation and the tragic hero archetype.
+	1. Attitudes towards women
+	2. General attitude towards others
+	3. Attitude towards life?  
+
+While it's use differs between *Antigone* and *Home Fire*, Sophocles and Shamsie both show the dangers of pride through characterisation %%and the tragic hero archetype%%. 
+
+2. The dangers of pride are shown through narrative perspective and structure, despite the differences between the texts.
+	1. The chorus
+	2. All in a day structure
+	3. Narrative perspective is third person restricted privileging x. Allows us to see many perspectives from different people outside of the tragic hero
+	4. Structure of novel (dedicating a section to characters, Karamat last, showing the hubris of Karamat before showing the hero side of him)
+
+The dangers of pride are shown through narrative perspective and structure, despite the differences between the texts. 
+## Works cited
+Sophocles, et al. *Antigone*. Cambridge University Press, 2003.
+
+"pride, n.1." *OED Online*, Oxford University Press, June 2022, www.oed.com/view/Entry/151185. Accessed 28 July 2022.

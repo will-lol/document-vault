@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b0f5f1489c3297",
+        "id": "266409b2bb02199f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Home Fire & Antigone/Comparitive essay.md",
+            "file": "Physics/Practise IA.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Home Fire & Antigone/Comparitive essay.md",
+                "file": "Physics/Practise IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "24d236a90818cac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Practise IA.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -96,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b6b0f5f1489c3297",
+  "active": "353bee7a83b73aa6",
   "lastOpenFiles": [
-    "Global Politics/Human rights/paper 1.md",
-    "Global Politics/hinge terms in essay questions.md",
-    "TOK/Lucia's day.md",
-    "TOK/15th july 2022.md",
-    "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
-    "Global Politics/Human rights/paper 2 planning.md",
-    "Global Politics/Human rights/Humanitarian Intervention.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
     "English/Home Fire & Antigone/Comparitive essay.md",
-    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md"
+    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
+    "Global Politics/Human rights/paper 2 planning.md",
+    "Global Politics/Human rights/Violations of human rights in practise.md",
+    "Global Politics/Human rights/paper 1.md",
+    "Global Politics/Human rights/Humanitarian Intervention.md",
+    "Global Politics/hinge terms in essay questions.md",
+    "google.com.md",
+    "English/Home Fire & Antigone/Pearson Global Politics.pdf",
+    "TOK/Lucia's day.md"
   ]
 }
