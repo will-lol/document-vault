@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7fc01649961b5b",
+        "id": "266409b2bb02199f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Politics/Human rights/paper 2 planning.md",
+            "file": "TOK/TOK Historians on Holidays reflection.md",
             "mode": "source",
-            "source": true
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -44,7 +45,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -53,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 300
   },
   "right": {
     "id": "bd9d248203dab6f4",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Politics/Human rights/paper 2 planning.md",
+                "file": "TOK/TOK Historians on Holidays reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "24d236a90818cac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOK/TOK Historians on Holidays reflection.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -95,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1f7fc01649961b5b",
+  "active": "266409b2bb02199f",
   "lastOpenFiles": [
-    "English/Home Fire & Antigone/Comparitive essay.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
-    "Global Politics/Human rights/Humanitarian Intervention.md",
-    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
     "Global Politics/Human rights/paper 2 planning.md",
     "Global Politics/Human rights/paper 1.md",
+    "English/Home Fire & Antigone/Comparitive essay.md",
     "Physics/Practise IA.md",
-    "TOK/How do we distinguish between good and bad interpretations of artworks?.md",
-    "English/Dictionary/External analepsis.md",
-    "English/Dictionary/Internal analepsis.md"
+    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
+    "Global Politics/Human rights/Violations of human rights in practise.md",
+    "Global Politics/Human rights/Humanitarian Intervention.md",
+    "Global Politics/hinge terms in essay questions.md",
+    "google.com.md",
+    "English/Home Fire & Antigone/Pearson Global Politics.pdf"
   ]
 }

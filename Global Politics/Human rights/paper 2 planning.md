@@ -21,10 +21,8 @@ According to Joseph Nye, "power is a contested concept"; there is no one definit
 
 The United States hegemony, its ideologies and consequences makes the concept of human rights a moderately unachievable ideal throughout the world.
 ### Main points
-1. Neoliberalism and capitalism is at odds with human rights (page 101)
-2. The War on Terror was not a venture compatible with human rights
-3. The United States hegemony and its power over the world has made it the 'police' of human rights -- defining laws (UN) and consequences (NATO). This hegemonic status is at odds with the universality of human rights, allows the US to provide exemptions for themselves when it suits (war on terror).
+
 ## Body
-### Quotes 
+### Actors in global politics use human rights law to provide diplomatic pressure onto 
 
 ## Conclusion 
