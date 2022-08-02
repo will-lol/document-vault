@@ -19,10 +19,13 @@ According to Joseph Nye, "power is a contested concept"; there is no one definit
 - The war on terror
 - US hegemony 
 
-The United States hegemony, its ideologies and consequences makes the concept of human rights a moderately unachievable ideal throughout the world.
 ### Main points
 
 ## Body
-### Actors in global politics use human rights law to provide diplomatic pressure onto 
+### Actors with ulterior motives in global politics may misuse human rights law to apply diplomatic pressure onto other actors, undermining the overall concept of human rights and justifying a use of hard power against an actor.
+
+### State actors do not have incentive to protect human rights aside from diplomatic pressures applied from other states acting as global governance. 
+
+### The concept of global governance for human rights is in contradiction with the concept of sovereignty 
 
 ## Conclusion 
