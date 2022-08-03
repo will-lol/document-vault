@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Humanitarian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "266409b2bb02199f",
+  "active": "ed28ea63866aa694",
   "lastOpenFiles": [
+    "Global Politics/Human rights/paper 2 example essay.md",
     "Global Politics/Human rights/paper 1.md",
-    "TOK/TOK Historians on Holidays reflection.md",
     "Global Politics/Human rights/paper 2 planning.md",
+    "TOK/TOK Historians on Holidays reflection.md",
     "English/Home Fire & Antigone/Comparitive essay.md",
     "Physics/Practise IA.md",
     "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
     "Global Politics/Human rights/Violations of human rights in practise.md",
     "Global Politics/Human rights/Humanitarian Intervention.md",
-    "Global Politics/hinge terms in essay questions.md",
-    "google.com.md"
+    "Global Politics/hinge terms in essay questions.md"
   ]
 }
