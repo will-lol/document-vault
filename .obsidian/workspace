@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Politics/Human rights/paper 2 planning.md",
+            "file": "English/Dictionary/Linguistic imperialism.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Politics/Human rights/paper 2 planning.md",
+                "file": "English/Dictionary/Linguistic imperialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Politics/Human rights/paper 2 planning.md"
+                "file": "English/Dictionary/Linguistic imperialism.md"
               }
             }
           }
@@ -107,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ed28ea63866aa694",
+  "active": "266409b2bb02199f",
   "lastOpenFiles": [
-    "Global Politics/Human rights/paper 2 example essay.md",
-    "Global Politics/Human rights/paper 1.md",
+    "English/Dictionary/Imperialism.md",
+    "English/Dictionary/Linguistic imperialism.md",
+    "English/Dictionary/Sough.md",
+    "Computer Science/Homework/Untitled.md",
+    "English/Dictionary/Long shot.md",
+    "English/Dictionary/Medium shot.md",
+    "English/Dictionary/Connotation.md",
     "Global Politics/Human rights/paper 2 planning.md",
-    "TOK/TOK Historians on Holidays reflection.md",
-    "English/Home Fire & Antigone/Comparitive essay.md",
-    "Physics/Practise IA.md",
-    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
-    "Global Politics/Human rights/Humanitarian Intervention.md",
-    "Global Politics/hinge terms in essay questions.md"
+    "Global Politics/Human rights/paper 2 example essay.md",
+    "Global Politics/Human rights/paper 1.md"
   ]
 }
