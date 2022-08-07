@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="balloonforce.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.5692527"
+     inkscape:cx="69.389218"
+     inkscape:cy="642.06985"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="path955-2"
+       transform="translate(30.381381,-1.2692366)">
+      <path
+         style="color:#000000;fill:#000000;stroke-width:1.47422;-inkscape-stroke:none"
+         d="m 479.39212,75.155148 0.8753,256.165992 h 10 l -0.8753,-256.165992 z"
+         id="path423-4"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g415-8"
+         transform="translate(-5e-6,-129.09119)">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 484.82978,197.85432 -33.53516,33.53516 a 5,5 0 0 0 0,7.07227 5,5 0 0 0 7.07031,0 l 26.46485,-26.46485 26.46484,26.46485 a 5,5 0 0 0 7.07031,0 5,5 0 0 0 0,-7.07227 z"
+           id="path417-3" />
+      </g>
+    </g>
+    <g
+       id="path955-7"
+       transform="translate(-5.4939191,9.57227)">
+      <path
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m 515.70508,740.5625 v 256.16602 h 10 V 740.5625 Z"
+         id="path1349" />
+      <g
+         id="g1341">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 490.70508,964.22852 a 5,5 0 0 0 -3.53516,1.46484 5,5 0 0 0 0,7.07031 l 33.53516,33.53713 33.53515,-33.53713 a 5,5 0 0 0 0,-7.07031 5,5 0 0 0 -7.07031,0 l -26.46484,26.46484 -26.46485,-26.46484 a 5,5 0 0 0 -3.53515,-1.46484 z"
+           id="path1343" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1524"
+       width="420.12143"
+       height="420.26868"
+       x="310.6441"
+       y="329.86566" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3334px;baseline-shift:baseline;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="554.42426"
+       y="865.4126"
+       id="text1662"><tspan
+         sodipodi:role="line"
+         id="tspan1660"
+         x="554.42426"
+         y="865.4126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3334px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">F<tspan
+   style="font-size:34.6667px;baseline-shift:sub;stroke-width:0"
+   id="tspan3274">weight</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3334px;baseline-shift:baseline;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="554.42426"
+       y="173.32439"
+       id="text1662-5"><tspan
+         sodipodi:role="line"
+         id="tspan1660-9"
+         x="554.42426"
+         y="173.32439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3334px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">F<tspan
+   style="font-size:34.6667px;baseline-shift:sub;stroke-width:0"
+   id="tspan3272">air resistance</tspan></tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path4167"
+       cx="520.70483"
+       cy="540"
+       r="5.4936776" />
+  </g>
+</svg>
