@@ -84,8 +84,11 @@
             "id": "353bee7a83b73aa6",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Computer Science/Homework/Untitled.md",
+                "staged": false
+              }
             }
           }
         ],
@@ -95,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fc176e05a3b70b74",
+  "active": "353bee7a83b73aa6",
   "lastOpenFiles": [
-    "Spanish/Unidad Siete/map(1).svg",
+    "conflict-files-obsidian-git.md",
     "Spanish/Unidad Siete/Excursión de Hobart.md",
+    "Spanish/Unidad Siete/map(1).svg",
     "Spanish/Mis vacaciones!.md",
     "Global Politics/Human rights/paper 2 planning.md",
     "English/Home Fire & Antigone/Comparitive essay.md",
     "Global Politics/Human rights/Violations of human rights in practise.md",
     "Global Politics/Human rights/Humanitarian Intervention.md",
     "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
-    "Global Politics/Human rights/paper 1.md",
-    "Physics/Practise IA.md"
+    "Global Politics/Human rights/paper 1.md"
   ]
 }
