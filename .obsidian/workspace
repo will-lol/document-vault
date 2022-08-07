@@ -4,13 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7fc01649961b5b",
+        "id": "266409b2bb02199f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Spanish/Unidad Siete/Excursión de Hobart.md",
             "mode": "source",
+=======
+            "file": "Physics/Practise IA.md",
+            "mode": "source",
+            "backlinks": false,
+>>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
             "source": false
           }
         }
@@ -40,11 +46,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Humanitarian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -53,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 300
   },
   "right": {
     "id": "bd9d248203dab6f4",
@@ -69,7 +75,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Spanish/Unidad Siete/Excursión de Hobart.md",
+=======
+                "file": "Physics/Practise IA.md",
+>>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +100,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "24d236a90818cac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Practise IA.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -98,6 +118,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
   "active": "353bee7a83b73aa6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -110,5 +131,19 @@
     "Global Politics/Human rights/Humanitarian Intervention.md",
     "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
     "Global Politics/Human rights/paper 1.md"
+=======
+  "active": "266409b2bb02199f",
+  "lastOpenFiles": [
+    "Physics/balloonforce.svg",
+    "Physics/Practise IA.md",
+    "Physics/balloonforce 1.svg",
+    "TOK/15th july 2022.md",
+    "English/Dictionary/Linguistic imperialism.md",
+    "English/Dictionary/Imperialism.md",
+    "English/Dictionary/Sough.md",
+    "Computer Science/Homework/Untitled.md",
+    "English/Dictionary/Long shot.md",
+    "English/Dictionary/Medium shot.md"
+>>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
   ]
 }
