@@ -7,7 +7,7 @@
    viewBox="0 0 1080 1080"
    version="1.1"
    id="svg5"
-   sodipodi:docname="balloonforce.svg"
+   sodipodi:docname="balloonforce.svg 18-22-18-609.svg"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.5692527"
-     inkscape:cx="69.389218"
-     inkscape:cy="642.06985"
+     inkscape:zoom="1.1424631"
+     inkscape:cx="432.83674"
+     inkscape:cy="375.06682"
      inkscape:window-width="1680"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -40,16 +40,30 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="path955-2"
-       transform="translate(30.381381,-1.2692366)">
+       id="path955">
       <path
-         style="color:#000000;fill:#000000;stroke-width:1.47422;-inkscape-stroke:none"
-         d="m 479.39212,75.155148 0.8753,256.165992 h 10 l -0.8753,-256.165992 z"
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m 479.82978,211.9969 0.8753,117.86833 h 10 l -0.8753,-117.86833 z"
+         id="path423"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g415">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 484.82978,197.85432 -33.53516,33.53516 a 5,5 0 0 0 0,7.07227 5,5 0 0 0 7.07031,0 l 26.46485,-26.46485 26.46484,26.46485 a 5,5 0 0 0 7.07031,0 5,5 0 0 0 0,-7.07227 z"
+           id="path417" />
+      </g>
+    </g>
+    <g
+       id="path955-2"
+       transform="translate(80.144505,0.48136697)">
+      <path
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m 479.82978,211.9969 0.8753,117.86833 h 10 l -0.8753,-117.86833 z"
          id="path423-4"
          sodipodi:nodetypes="ccccc" />
       <g
-         id="g415-8"
-         transform="translate(-5e-6,-129.09119)">
+         id="g415-8">
         <path
            style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
            d="m 484.82978,197.85432 -33.53516,33.53516 a 5,5 0 0 0 0,7.07227 5,5 0 0 0 7.07031,0 l 26.46485,-26.46485 26.46484,26.46485 a 5,5 0 0 0 7.07031,0 5,5 0 0 0 0,-7.07227 z"
@@ -94,16 +108,29 @@
     <text
        xml:space="preserve"
        style="font-size:53.3334px;baseline-shift:baseline;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-       x="554.42426"
-       y="173.32439"
+       x="273.24561"
+       y="207.11603"
+       id="text1662-58"><tspan
+         sodipodi:role="line"
+         id="tspan1660-3"
+         x="273.24561"
+         y="207.11603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3334px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">F<tspan
+   style="font-size:34.6667px;baseline-shift:sub;stroke-width:0"
+   id="tspan3308">buoyancy</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3334px;baseline-shift:baseline;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="605.95856"
+       y="215.48492"
        id="text1662-5"><tspan
          sodipodi:role="line"
          id="tspan1660-9"
-         x="554.42426"
-         y="173.32439"
+         x="605.95856"
+         y="215.48492"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3334px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">F<tspan
-   style="font-size:34.6667px;baseline-shift:sub;stroke-width:0"
-   id="tspan3272">air resistance</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan549">drag</tspan></tspan></text>
     <circle
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
        id="path4167"
