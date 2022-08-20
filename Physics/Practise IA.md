@@ -1,8 +1,7 @@
 # How does the radius of a balloon affect its terminal velocity?
 ## Introduction
-
 ## Research Question
-I want to explore the relationship between the volume of gas (exhaled air) in a ballon and its terminal velocity. Measuring the volume of air in a balloon is mathematically challenging, so the radius may be a more fitting measurement. Terminal velocity is also possible to measure using a camera because the balloon reaches 95%+ terminal velocity very quickly. My question therefore is:
+I want to explore the relationship between the volume of gas (exhaled air) in a ballon and its terminal velocity. Measuring the volume of air in a balloon is mathematically challenging, so the radius may be a more fitting measurement. Terminal velocity is possible to measure using a camera because the balloon reaches 95%+ terminal velocity very quickly. My question therefore is:
 
 **How does the radius of a balloon affect its terminal velocity?**
 ## Theory and Hypothesis 
@@ -41,7 +40,7 @@ We can replace the $A$ with the formula for area of a circle.
 $$D=C_d \cdot \frac{\rho V^2}{2} \cdot \pi r^2$$
 $$\therefore D \propto r^2$$
 ### Predicting a trend
-All 3 forces acting upon the balloon in this situation are proportional to the radius of the balloon which makes it difficult to predict a trend. However, the fact that the drag coefficient varies with velocity means that despite changes in the buoyant and weight forces means that a change in radius will result in a smaller terminal velocity. I expect that a plot of radius versus terminal velocity will result in a power graph with two asymptotes. Therefore, a plot of the square root of radius should result in a negative linear trend.
+All 3 forces acting upon the balloon in this situation are proportional to the radius squared of the balloon which makes it difficult to predict a trend. However, the fact that the drag coefficient varies with velocity means that despite changes in the buoyant and weight forces means that a change in radius will result in a smaller terminal velocity. I expect that a plot of radius versus terminal velocity will result in a power graph with two asymptotes. Therefore, a plot of the square root of radius should result in a negative linear trend.
 ## Experiment
 ### Variables
 **Independent variable:** Radius of balloon
@@ -52,6 +51,7 @@ All 3 forces acting upon the balloon in this situation are proportional to the r
 - The 'Tracker' tool in the 'Fusion' page of DaVinci Resolve will be used to plot displacement against time
 - The resulting data will be processed in Excel. The beginnings and ends of the balloon's displacement time graph will be trimmed off according to how long they took to reach a terminal velocity
 - The trend line tool in Excel will be used to find a value of terminal velocity
+
 | Control variable                  | Action/Explanation                                           |
 | --------------------------------- | ------------------------------------------------------------ |
 | Air pressure                      | Do not change rooms, record trials in a short period         |
@@ -62,6 +62,7 @@ All 3 forces acting upon the balloon in this situation are proportional to the r
 | Outside forces other than gravity | Record inside, ensure fans or air-con is off                 |
 | Position of camera                | Keep camera in a secure position, record trials in one video |
 | Initial velocity                  | Drop balloon in a consistent manner                                                             |
+
 ### Diagram
 ![[diagram.svg | 300]]
 ### Apparatus
@@ -139,8 +140,8 @@ If the experiment is to be repeated, a very small enclosed room and some kind of
 <div style="page-break-before: always;"></div>
 
 ## References
-_Gas exchange in the lungs - Respiratory system - GCSE Biology (Single Science) Revision_ n.d., _BBC Bitesize_, viewed 8 August 2022, <[https://www.bbc.co.uk/bitesize/guides/z6h4jxs/revision/3](https://www.bbc.co.uk/bitesize/guides/z6h4jxs/revision/3)>.
+_Gas exchange in the lungs - Respiratory system - GCSE Biology (Single Science) Revision_ n.d., _BBC Bitesize_, viewed 8 August 2022, <https://www.bbc.co.uk/bitesize/guides/z6h4jxs/revision/3>.
 
-_Gases - Densities_ n.d., viewed 8 August 2022, <[https://www.engineeringtoolbox.com/gas-density-d_158.html](https://www.engineeringtoolbox.com/gas-density-d_158.html)>.
+_Gases - Densities_ n.d., viewed 8 August 2022, <https://www.engineeringtoolbox.com/gas-density-d_158.html>.
 
-_Terminal Velocity (gravity and drag)_ n.d., viewed 8 August 2022, <[https://www.grc.nasa.gov/www/k-12/rocket/termvr.html](https://www.grc.nasa.gov/www/k-12/rocket/termvr.html)>.
+_Terminal Velocity (gravity and drag)_ n.d., viewed 8 August 2022, <https://www.grc.nasa.gov/www/k-12/rocket/termvr.html>.

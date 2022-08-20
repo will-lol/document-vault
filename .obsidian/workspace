@@ -7,8 +7,13 @@
         "id": "571fde9b2dd34dad",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Homework/A bus ticketing system.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Homework/A bus ticketing system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Homework/A bus ticketing system.md"
+              }
             }
           },
           {
@@ -100,6 +108,8 @@
   },
   "active": "571fde9b2dd34dad",
   "lastOpenFiles": [
+    "EE/EE Planning.md",
+    "Global Politics/Human rights/Humanitarian Intervention.md",
     "Physics/Practise IA.md",
     "English/Home Fire & Antigone/Comparitive essay.md",
     "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
@@ -107,8 +117,6 @@
     "Global Politics/Human rights/Violations of human rights in practise.md",
     "Global Politics/Human rights/paper 1.md",
     "Global Politics/Human rights/paper 2 planning.md",
-    "Physics/The relationship between potential difference, current and resistance.md",
-    "Physics/sample graph 2.png",
-    "Physics/diagram.svg"
+    "Physics/The relationship between potential difference, current and resistance.md"
   ]
 }
