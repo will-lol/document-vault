@@ -1,22 +1,16 @@
 {
   "main": {
-    "id": "e3cc295c9c15b7a4",
+    "id": "eea54d41e7974492",
     "type": "split",
     "children": [
       {
-        "id": "266409b2bb02199f",
+        "id": "7e83686d13a03da9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Spanish/Unidad Siete/Excursión de Hobart.md",
+            "file": "Global Politics/high level literature review.md",
             "mode": "source",
-=======
-            "file": "Physics/Practise IA.md",
-            "mode": "source",
-            "backlinks": false,
->>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
             "source": false
           }
         }
@@ -25,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0e033ac2fa0611a0",
+    "id": "fafc9c7f61ecc1e7",
     "type": "split",
     "children": [
       {
-        "id": "25693b9f3b12a837",
+        "id": "b2a5788ade0f6a78",
         "type": "tabs",
         "children": [
           {
-            "id": "fc176e05a3b70b74",
+            "id": "c1c0995a8242f18d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +35,12 @@
             }
           },
           {
-            "id": "ed28ea63866aa694",
+            "id": "4436f1d954ad2dfb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Humanitarian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,27 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
-    "id": "bd9d248203dab6f4",
+    "id": "1ea536c16a4ff3ed",
     "type": "split",
     "children": [
       {
-        "id": "253b14acb070c949",
+        "id": "34217aa497e015b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8ddc5d0e9fe8d162",
+            "id": "c6b8b903f541e3ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Spanish/Unidad Siete/Excursión de Hobart.md",
-=======
-                "file": "Physics/Practise IA.md",
->>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
+                "file": "Global Politics/high level literature review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,24 +81,11 @@
             }
           },
           {
-            "id": "353bee7a83b73aa6",
+            "id": "98a711cbe89992e4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Computer Science/Homework/Untitled.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "24d236a90818cac5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Physics/Practise IA.md"
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
@@ -118,32 +95,6 @@
     "direction": "horizontal",
     "width": 300
   },
-<<<<<<< HEAD
-  "active": "353bee7a83b73aa6",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Spanish/Unidad Siete/Excursión de Hobart.md",
-    "Spanish/Unidad Siete/map(1).svg",
-    "Spanish/Mis vacaciones!.md",
-    "Global Politics/Human rights/paper 2 planning.md",
-    "English/Home Fire & Antigone/Comparitive essay.md",
-    "Global Politics/Human rights/Violations of human rights in practise.md",
-    "Global Politics/Human rights/Humanitarian Intervention.md",
-    "English/Home Fire & Antigone/Home Fire English Creative Reflection.md",
-    "Global Politics/Human rights/paper 1.md"
-=======
-  "active": "266409b2bb02199f",
-  "lastOpenFiles": [
-    "Physics/balloonforce.svg",
-    "Physics/Practise IA.md",
-    "Physics/balloonforce 1.svg",
-    "TOK/15th july 2022.md",
-    "English/Dictionary/Linguistic imperialism.md",
-    "English/Dictionary/Imperialism.md",
-    "English/Dictionary/Sough.md",
-    "Computer Science/Homework/Untitled.md",
-    "English/Dictionary/Long shot.md",
-    "English/Dictionary/Medium shot.md"
->>>>>>> 5e974ce1e99c62313cb2ebab911ad9617e461a6a
-  ]
+  "active": "7e83686d13a03da9",
+  "lastOpenFiles": []
 }
